@@ -6,7 +6,4 @@ using System.Threading.Tasks;
 
 namespace TDDCursusLibrary
 {
-    public class Class1
-    {
-    }
 }
